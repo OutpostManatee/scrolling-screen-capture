@@ -29,8 +29,7 @@
 </div>
 
 <div align="center">
-  <img width="1200" height="630" alt="social-preview" src="https://github.com/user-attachments/assets/6dc57453-b34f-4d07-8d5a-75d20714ebab" />
-
+  <img width="1280" height="800" alt="unnamed (2)" src="https://github.com/user-attachments/assets/5b104f7b-0133-472e-a9ec-98c7688829d0" />
 </div>
 
 ---
